@@ -3,7 +3,6 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "proxy": "https://main--candid-taffy-03e1ff.netlify.app",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
